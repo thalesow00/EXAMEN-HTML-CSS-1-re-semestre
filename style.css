@@ -1,0 +1,170 @@
+*{
+   list-style-type: none;
+   text-decoration: none;
+   background-color:rgb(77, 79, 79);
+}
+body{
+   
+}
+.entete{
+
+
+}
+
+.section{
+   background-color:  rgb(196, 198, 198);
+   align-items: center;
+   background-image: url(522arr.jpeg);
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+
+    
+}
+.div1{
+   color:  white;
+   font-size: 25px;
+
+}
+
+.div2{
+    display: flex;
+    margin-left: 10px;
+}
+li a{
+    margin-left: 10px;
+    color: white;
+    font-size: large;
+    
+
+}
+
+
+.devsow{
+    margin: 110px 400px;
+    width: 100%;
+    
+
+}
+ 
+.devsow,img{
+   border-radius: 50%; 
+    
+}
+ 
+.devsow h2{
+    margin-top: -5px;
+
+}
+.devsow h3{
+    margin-top: -20px;
+    margin-right: px;
+    color: white;
+}
+ 
+.tirer{
+   height: 2.5px;
+   width: 40px;
+   background-color:  rgb(251, 182, 9); 
+
+}
+.scroller{
+    width: 35px;
+    height: 3px;
+    background-color:  rgb(251, 182, 9);
+    margin-top: -44px;
+    color: white;
+}
+.scroller,p{
+    margin-left:40px;
+    margin-top: -15px;
+}
+                                  /* ceuci est mon premiere parie de portfolio*/
+.partie2{
+    display: flex;
+
+}
+
+.une{
+    display: flex;
+    
+}
+.infoperso{
+     display: flex;
+     justify-content: space-around;
+     height: 500px;
+     width: 500px;
+     color: white;
+     
+}
+span{
+    color: rgb(251, 182, 9);
+}
+.monimg{
+    margin-right: 12px;
+    margin-right: 10px;
+    padding-top: 0px;
+    
+
+}
+.trait{
+    height: 2.5px;
+    width: 40px;
+    background-color:  rgb(251, 182, 9); 
+    margin-right: 15px;
+    margin-bottom: 40px;
+
+}
+.moi1 p{
+    font-size: 30px;
+    font-weight: bolder;
+    color:   rgb(251, 182, 9);
+
+}
+.moi1{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+h5{
+     color: white;
+}
+            /*   Ceuci est mon troixieme partie   */
+.parti3{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.cont{
+    display: ;
+}
+.ter{
+    height: 2.5px;
+    width: 40px;
+    background-color:  rgb(251, 182, 9); 
+
+}
+.question{
+    margin: 100px 270px;
+    align-items: center;
+    
+}
+.question h1{
+    margin-left: 25px;
+    color:  rgb(251, 182, 9);
+
+}
+
+.question h3{
+    color: white;
+    margin-right: 40px;
+
+}
+ 
+h1{
+    margin-right: 10px;
+}
